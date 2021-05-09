@@ -1,0 +1,4 @@
+# Below are the versions with which the script was tested
+requests >= 2.25.1
+odin >= 1.6.1
+responses >= 0.13.3
